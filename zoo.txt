@@ -1,0 +1,13 @@
+Protovis
+Index Charts
+Stacked Graphs
+Small Multiples
+Horizon Graphs
+Stem-and-Leaf Plots
+Q-Q Plots
+Parallel Coordinates
+Flow Maps
+Dendrogram
+Adjacency Diagrams
+Circle-packing layouts
+Matrix Views
